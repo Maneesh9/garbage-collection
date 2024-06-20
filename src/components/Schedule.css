@@ -1,0 +1,19 @@
+/* src/components/Schedule.css */
+
+.schedule-page {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .schedule-page h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .schedule-page p {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
